@@ -6,6 +6,8 @@ Stack: Java EE, Apache Tomcat, Servlet API, MySQL DB, JDBC, Java FX, Gson.
 
 ## Server part of the application:
 
+(The client part is available at the link: https://github.com/dddumin/FencingSchoolConnection)
+
 REST API that generates JSON responses. For each entity of the data model, develop a repository for accessing the database in accordance with the API of the server application. Server Application Classes:
 ### 1. RegistrationServlet
 #### Methods:
