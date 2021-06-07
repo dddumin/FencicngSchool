@@ -1,4 +1,4 @@
-# FencicngSchool
+# FencingSchool
 
 Client-server application for creating, modifying, deleting records of the administrator of the fencing school.
 
